@@ -36,6 +36,7 @@ sample=Samples\Flute\flute-c4.wav
 lokey=b3
 hikey=c#4
 tune=-16
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Flute\flute-d#4.wav

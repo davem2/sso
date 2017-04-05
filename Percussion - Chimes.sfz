@@ -35,6 +35,7 @@ pitch_keycenter=a3
 sample=Samples\Percussion\chimes-c4.wav
 lokey=b3
 hikey=c#4
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Percussion\chimes-d#4.wav

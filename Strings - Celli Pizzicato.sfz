@@ -64,6 +64,7 @@ pitch_keycenter=a3
 sample=Samples\Celli\celli-piz-rr1-c4.wav
 lokey=b3
 hikey=c#4
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Celli\celli-piz-rr1-d#4.wav
@@ -152,6 +153,7 @@ pitch_keycenter=a3
 sample=Samples\Celli\celli-piz-rr2-c4.wav
 lokey=b3
 hikey=c#4
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Celli\celli-piz-rr2-d#4.wav

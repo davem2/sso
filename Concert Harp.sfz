@@ -71,6 +71,7 @@ sample=Samples\Harp\harp-c4.wav
 lokey=b3
 hikey=c#4
 tune=-18
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Harp\harp-d#4.wav

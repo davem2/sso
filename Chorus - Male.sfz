@@ -113,6 +113,7 @@ pitch_keycenter=b3
 sample=Samples\Chorus\chorus-male-c4.wav
 lokey=c4
 hikey=c4
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Chorus\chorus-male-c#4.wav

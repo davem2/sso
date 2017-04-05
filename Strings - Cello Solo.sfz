@@ -59,6 +59,7 @@ pitch_keycenter=a3
 sample=Samples\Cello\cello-c4.wav
 lokey=b3
 hikey=c#4
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Cello\cello-d#4.wav

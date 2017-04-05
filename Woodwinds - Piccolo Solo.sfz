@@ -11,6 +11,7 @@ ampeg_release=0.550
 sample=Samples\Piccolo\piccolo-c4.wav
 lokey=c4
 hikey=c#4
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Piccolo\piccolo-d#4.wav

@@ -42,6 +42,7 @@ pitch_keycenter=a3
 sample=Samples\Percussion\glockenspiel-c4.wav
 lokey=b3
 hikey=c#4
+pitch_keycenter=c4
 
 <region>
 sample=Samples\Percussion\glockenspiel-d#4.wav
