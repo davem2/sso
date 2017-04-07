@@ -87,6 +87,7 @@ loop_start=66381
 loop_end=124585
 lokey=b3
 hikey=c#4
+pitch_keycenter=c4
 
 <region>
 sample=cello-d#4.wav

@@ -56,6 +56,7 @@ loop_end=267191
 lokey=b3
 hikey=c#4
 tune=-16
+pitch_keycenter=c4
 
 <region>
 sample=flute-d#4.wav

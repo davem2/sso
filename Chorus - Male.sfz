@@ -159,6 +159,7 @@ loop_start=188426
 loop_end=354221
 lokey=c4
 hikey=c4
+pitch_keycenter=c4
 
 <region>
 sample=chorus-male-c#4.wav
